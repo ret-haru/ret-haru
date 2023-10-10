@@ -4,6 +4,8 @@
 
 <h1>勉強中のこと</h1>：<br>ITについて（Python、C言語、Unityなど）今後、HTMLやJavascriptなどを学ぶ予定です。<br>
 
+![haruna](https://1.bp.blogspot.com/-tonUHy9fDEk/XnLn7EL4lvI/AAAAAAABX0k/HvgZidpGmQc7-Qe7LDsp00TfWltpuwkSwCNcBGAsYHQ/s450/computer_mob_programming.png)
+
 <h1>学びたいこと</h1>：<br>アプリ開発やwebに関して。<br>
 
 <h1>その他</h1>：<br>甘いものが好きです。特に、チーズケーキが好きです。これからよろしくお願い致します。
